@@ -1,3 +1,12 @@
 # Civil Engineering
 
 ## The wonders of modern day engineering
+
+How the day has gone:
+
+1. Complete git hub
+2. Perfect git hub:
+  - branches
+  - commit
+  - staging
+3. Write some `codes = "great!"`
