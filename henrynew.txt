@@ -1,1 +1,18 @@
 Hello class, am new to this
+
+Flutterwave Sounds Awesome
+
+6 years ago, you’d have to be very brave to try to make or receive online payments in Nigeria.
+
+Interswitch’s WebPay was the default payment processor and startups had to pay N150,000 (about $1,000 at the time) to acquire it. Even though mobile internet was the fastest-growing way to access the web, WebPay didn’t work on mobile phones. And then, there were the failure rates – some startups reported that as many as 90% of transactions failed.
+
+Online payments didn’t work.
+
+Furthermore, the Central Bank said that every online transaction had to be “tokenised” – confirmed by a one-time password. This meant recurring payments were impossible to execute. As a result, the only way to execute online subscription services was using premium SMS. This was restricted by another regulation, this time from the National Communications Commission capping transaction size at N200 (roughly $1). Telcos and their service provider partners used to charge a service fee that ranged from 60% to 80%.
+
+All that has changed now.
+
+Interswitch has upgraded WebPay and acquired Vanso (who developed MiMo). More importantly, startups like Paystack have brought truly simple web payments to startups across Nigeria – making recurring payments and payment pages available to anyone for free. Local founders are full of praise for Paystack, saying “it just works”. By the time Paystack got into Y Combinator, the startup became shorthand for modern payments in African tech.
+
+Link
+http://techcabal.com/2016/08/15/flutterwave-iyin-compete-paystack/
