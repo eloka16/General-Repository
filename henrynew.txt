@@ -1,6 +1,6 @@
-Hello class, am new to this
+#Hello class, am new to this
 
-Flutterwave Sounds Awesome
+##Flutterwave Sounds Awesome
 
 6 years ago, you’d have to be very brave to try to make or receive online payments in Nigeria.
 
@@ -15,10 +15,10 @@ All that has changed now.
 Interswitch has upgraded WebPay and acquired Vanso (who developed MiMo). More importantly, startups like Paystack have brought truly simple web payments to startups across Nigeria – making recurring payments and payment pages available to anyone for free. Local founders are full of praise for Paystack, saying “it just works”. By the time Paystack got into Y Combinator, the startup became shorthand for modern payments in African tech.
 
 Link
-http://techcabal.com/2016/08/15/flutterwave-iyin-compete-paystack/
+[Flutterwave](http://techcabal.com/2016/08/15/flutterwave-iyin-compete-paystack/)
 
 
-Tutorials github
+##Tutorials github
 
 Objective
 Learn Git to keep track of your space station locations.
@@ -46,3 +46,42 @@ Initially, the repository you create in Bitbucket is going to be empty without a
 
 Link
 https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud/create-the-repository
+
+
+Football news
+
+>> Barcelona star Javier Mascherano has indicated that he would "understand" if Claudio >> Bravo >> leaves the club to join Manchester City. 
+
+Goal understands that Pep Guardiola's side are closing in on a move for the Chile international, with regular goalkeeper Joe Hart dropped to the bench for the Catalan manager's first Premier League game against Sunderland.
+And when asked about the move in a media conference, Mascherano said that he was unsure whether the speculation was true, but wished his team-mate well should a move come off. 
+
+"We don’t know anything, honestly. We don’t know if it’s true or a lie," the Argentine said. 
+
+"I hope he stays, but obviously I will understand it [if he goes]."
+
+Link
+http://www.goal.com/en-ng/news/4102/transfer-zone/2016/08/16/26573322/mascherano-i-will-understand-if-bravo-joins-man-city?ICID=HP_BN_4
+
+## Andela
+In 2013, Ian Carnevale, Nadayar, Brice and I started Fora, a distance learning platform for African universities. We reached out to Jeremy Johnson because of the similarities between his company at the time, 2U, and what we were hoping to build in Africa. We met at his office in NYC and then stayed in touch. From time to time, I would ask for feedback and he became my mentor.
+
+In early 2014, it became clear that Fora wasn’t working as we had hoped. We were unable to raise the capital we needed and I did not have the political networks to break through various regulatory barriers we faced. After a long dry spell chasing elusive investors in Nigeria, we finally raised a small round from Extreme Startups?—?now HIGHLINE.VC. (Marcus Daniels, I love you and I owe you forever). This round was small but it gave us some months of runway. I had two options?—?pivot Fora before the cash ran out or die. Many of you who are entrepreneurs know this moment too well.
+
+At this crossroad, we reached out to Jeremy again to ask for his advice. He had just gotten back from a trip to Nairobi to give a talk for the MasterCard Foundation. He had been invited out by Christina Sass, now one of Andela’s co-founders, and while there, he started thinking of how one might scale high-quality education without charging tuition.
+
+We met up at the Fresh and Co. on 28th and Park in NYC and I told him Fora wasn’t working. We kicked around a few rough ideas and he walked me through one which would eventually become Andela. He promised to personally fund us and join our board if we were willing to consider it. I told Jeremy to give me 24 hours to think about it and talk to my team.
+
+My team was intrigued and inspired by the model, though it was risky. Ultimately, Nad (one of my co-founders at Fora) convinced us that the new model was even more aligned with our mission to empower young Africans to take back the continent through education. The next day, we got on Skype and told Jeremy we were in.
+
+Initially, we figured we would just try to pivot Fora as planned?—?we even ran the first recruitment and bootcamp as Fora. However, we quickly realized that Andela was actually a totally separate company, so we decided to start anew and wrap up Fora. Around the same time, Jeremy realized that he just couldn’t stop thinking about Andela, and told us that if we were interested, he would leave 2U to co-found the company with us and lead it day-to-day.
+
+I was very excited to have Jeremy join full-time as our CEO. First, I knew I could learn a lot from working with Jeremy. Second, 2U had just gone public and he was (and still is) easily one of the highest profile entrepreneurs in education. Raising capital for a crazy, unproven idea like ours would be a bit easier with him on board. I do not, for a second, regret that decision. As our remarkable success in such a short time has shown, it was the right move.
+
+Shortly thereafter, we convinced Christina Sass, who Jeremy had originally tossed the idea around with in Nairobi, to join us as well and drop out of her PhD program at Harvard. (Crazy eh?)
+
+At this point, we decided to wind down Fora and create a totally separate company, called Andela, with Jeremy, Christina, and the four co-founders of Fora?—?Ian, Nadayar, Brice and I. Brice and Nadayar were essential to launching Andela. In fact, to begin training the first Andela Fellowship Class, we bought Nad a one-way ticket to Nigeria with a few days notice. He literally up and left his life in Canada on a whim to make this possible.
+
+Despite having to shut down Fora, many of our early investors continued to support us. Some, like Pule Taukobong and Idris Ayodeji Bello, even re-invested in Andela. Today, we joke (not really) that Fora’s early investors have first dibs on investing in my startups for life.
+
+Link
+http://techcabal.com/2016/06/20/how-andela-was-founded-iyinoluwa-aboyeji/
