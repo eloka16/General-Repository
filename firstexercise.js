@@ -245,3 +245,33 @@ function isPrime() {
     return true;
      
 }
+
+
+function findMinMax(arr) 
+{
+
+var min = arr[0]; //making the first index smallest
+var max = arr[0]; //making the first index largest
+
+for(var i = 0; i < arr.length; i++) {
+  if(arr[i] < min) min = arr[i];
+  if(arr[i] > max) max = arr[i]; 
+}
+
+var retTwoArray = []; // a new array to put the minimum and max value in
+retTwoArray.push(min,max);
+
+var retOneArray = []; // this will return the value for 
+retOneArray.push(max);
+
+if (min !== max )
+{
+	return retTwoArray;
+}
+else
+{
+	return retOneArray;
+}
+
+
+}
