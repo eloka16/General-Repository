@@ -46,3 +46,18 @@ Initially, the repository you create in Bitbucket is going to be empty without a
 
 Link
 https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud/create-the-repository
+
+
+Football news
+
+Barcelona star Javier Mascherano has indicated that he would "understand" if Claudio Bravo leaves the club to join Manchester City. 
+
+Goal understands that Pep Guardiola's side are closing in on a move for the Chile international, with regular goalkeeper Joe Hart dropped to the bench for the Catalan manager's first Premier League game against Sunderland.
+And when asked about the move in a media conference, Mascherano said that he was unsure whether the speculation was true, but wished his team-mate well should a move come off. 
+
+"We don’t know anything, honestly. We don’t know if it’s true or a lie," the Argentine said. 
+
+"I hope he stays, but obviously I will understand it [if he goes]."
+
+Link
+http://www.goal.com/en-ng/news/4102/transfer-zone/2016/08/16/26573322/mascherano-i-will-understand-if-bravo-joins-man-city?ICID=HP_BN_4
