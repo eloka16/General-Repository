@@ -1,6 +1,6 @@
-Hello class, am new to this
+#Hello class, am new to this
 
-Flutterwave Sounds Awesome
+##Flutterwave Sounds Awesome
 
 6 years ago, you’d have to be very brave to try to make or receive online payments in Nigeria.
 
@@ -15,10 +15,10 @@ All that has changed now.
 Interswitch has upgraded WebPay and acquired Vanso (who developed MiMo). More importantly, startups like Paystack have brought truly simple web payments to startups across Nigeria – making recurring payments and payment pages available to anyone for free. Local founders are full of praise for Paystack, saying “it just works”. By the time Paystack got into Y Combinator, the startup became shorthand for modern payments in African tech.
 
 Link
-http://techcabal.com/2016/08/15/flutterwave-iyin-compete-paystack/
+[Flutterwave](http://techcabal.com/2016/08/15/flutterwave-iyin-compete-paystack/)
 
 
-Tutorials github
+##Tutorials github
 
 Objective
 Learn Git to keep track of your space station locations.
@@ -50,7 +50,7 @@ https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud/create-th
 
 Football news
 
-Barcelona star Javier Mascherano has indicated that he would "understand" if Claudio Bravo leaves the club to join Manchester City. 
+>> Barcelona star Javier Mascherano has indicated that he would "understand" if Claudio >> Bravo >> leaves the club to join Manchester City. 
 
 Goal understands that Pep Guardiola's side are closing in on a move for the Chile international, with regular goalkeeper Joe Hart dropped to the bench for the Catalan manager's first Premier League game against Sunderland.
 And when asked about the move in a media conference, Mascherano said that he was unsure whether the speculation was true, but wished his team-mate well should a move come off. 
