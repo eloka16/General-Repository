@@ -1,1 +1,20 @@
-Just A demo file
+1. The Downfall of Imperative Programming [ Article Link](https://www.fpcomplete.com/blog/2012/04/the-downfall-of-imperative-programming)
+  - Sample Code
+    `(defun double (x) (* 2 x))`
+    
+2. Logic programming [Article Link 2](https://www.britannica.com/technology/logic-programming-language)
+  - Sample Code
+    `loves(vincent,mia). 
+    loves(marsellus,mia). 
+    loves(pumpkin,honey_bunny). 
+    loves(honey_bunny,pumpkin). 
+    jealous(X,Y):-  loves(X,Z),  loves(Y,Z)`
+    
+3. Object Ooriented Programming (OOP) Basics [Article Link 3](https://www.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html)
+  - Sample Code
+    `Circle c1 = new Circle();`
+    
+
+4. Functional Programming [Article Link 4](http://c2.com/cgi/wiki?FunctionalProgramming)
+  - Sample Code
+    `const words = content.split(/[\s.,\/:\n]+/);`
