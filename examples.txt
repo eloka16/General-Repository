@@ -1,1 +1,16 @@
-Hello! I'm learning Git.
+# General repository
+
+The following sites are good resources:
+1. News:
+    - [CNN](https://www.cnn.com)
+    - [BBC](https://www.bbc.com)
+    - [Aljazeera](https://www.aljazeera.com)
+ 
+2. Science:
+    - [HowStuffWworks](http://www.howstuffworks.com/)
+    - [NASA](http://www.nasa.gov/) 
+    - [Discovery](http://www.discovery.com/)
+
+3. Mathematics
+    -[Math's fun](http://www.mathsisfun.com/index.htm)
+    -[Math drills](http://www.math-drills.com/)  
