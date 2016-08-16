@@ -1,0 +1,15 @@
+#1. Python For Everybody
+     Description:
+	      This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures,
+		  networked application program interfaces, and databases, using the Python programming language.
+     Links:
+	      [Python for Everybody](https://www.coursera.org/specializations/python)
+		  
+#2. Introduction to Python Programming
+       Description:
+	   Learn to program in Python, a powerful language used by sites like YouTube .
+	   This lesson will introduce you to Python, a general-purpose, object-oriented
+	   Links:
+	   [introduction to python](https://www.codecademy.com/learn/python).
+	   
+	      
